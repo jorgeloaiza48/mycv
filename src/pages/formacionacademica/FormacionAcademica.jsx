@@ -1,5 +1,5 @@
 import React from 'react'
-import './formacionacademica.css'
+
 
 export default function FormacionAcademica() {
     return (

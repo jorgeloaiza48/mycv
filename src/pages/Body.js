@@ -1,7 +1,7 @@
 
 
 import React from "react"
-import './body.css'
+
 import FormacionAcademica from "./formacionacademica/FormacionAcademica"
 import Habilidades from "./habilidades/Habilidades"
 import Certificaciones from "./cetificaciones/Certificaciones"
