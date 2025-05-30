@@ -32,6 +32,7 @@ export default function ProyectosDesarrollados() {
                                             <br />
                                             <strong>Tecnologías empleadas: VisualBasic for Applications</strong>
                                         </p>
+                                       
                                     </div>
                                 </div>
                                 <div className="timeline">
@@ -66,17 +67,19 @@ export default function ProyectosDesarrollados() {
                                             <br />
                                             <strong>Tecnologías empleadas: JavaScript, CSS, HTML, REACTJS</strong>
                                         </p>
+                                         <a href='https://programador-cursos.onrender.com/'>https://programador-cursos.onrender.com/</a>
                                     </div>
                                 </div>
                                 <div className="timeline">
                                     <div className="timeline-content">
                                         <div className="timeline-year">2023</div>
-                                        <h3 className="title">Entorno prácticas concurso DIAN </h3>
+                                        <h3 className="title">concursayacolombia.com.co </h3>
                                         <p className="description">
-                                            Este proyecto consiste en un simulador de preguntas para practicar para las pruebas escritas de los procesos meritocráticos realizados por la CNSC.
+                                            Este proyecto consiste en una página web que permite estudiar para los concursos públicos ofrecidos por la CNSC.
                                             <br />
                                             <strong>Tecnologías empleadas: JavaScript, CSS, HTML, REACTJS</strong>
                                         </p>
+                                        <a href='https://concursayacolombia.com.co'>https://concursayacolombia.com.co</a>
                                     </div>
                                 </div>
                                 <div className="timeline">
@@ -97,8 +100,21 @@ export default function ProyectosDesarrollados() {
                                         <p className="description">
                                             Este proyecto consiste en un e-comerce para la comercialización de libros.
                                             <br />
-                                            <strong>Tecnologías empleadas: REACTJS,HTML,CSS, JavaScript</strong>
+                                            <strong>Tecnologías empleadas: REACTJS,HTML,CSS,Tailwind,JavaScript</strong>
                                         </p>
+                                        <a href='https://libreria2617785.onrender.com/'>Tienda virtual de libros</a>
+                                    </div>
+                                </div>
+                                 <div className="timeline">
+                                    <div className="timeline-content">
+                                        <div className="timeline-year">2024</div>
+                                        <h3 className="title">Consumo API Ricky and Morty</h3>
+                                        <p className="description">
+                                            Este proyecto consiste en consumir una api para traer la información ofrecida y mostrarla en el DOM o navegador.
+                                            <br />
+                                            <strong>Tecnologías empleadas: REACTJS,HTML,CSS,JavaScript</strong>
+                                        </p>
+                                        <a href='https://rickyandmortyapijelm.onrender.com/'>Ricky and Morty</a>
                                     </div>
                                 </div>
                             </div>
