@@ -117,6 +117,18 @@ export default function ProyectosDesarrollados() {
                                         <a href='https://rickyandmortyapijelm.onrender.com/'>Ricky and Morty</a>
                                     </div>
                                 </div>
+                                <div className="timeline">
+                                    <div className="timeline-content">
+                                        <div className="timeline-year">2025</div>
+                                        <h3 className="title">Gestión de alquiler de vehículos</h3>
+                                        <p className="description">
+                                            Este proyecto consiste en una interfaz web que permite gestionar el alquiler de vehículos mediante el registro de usuarios, inicio de sesión, edición de los vehículos por parte del administrador el cual tiene un panel tipo "admin", envío de correos electrónicos al usuario que hace una reserva y al administrador. El backend es gestionado por FireBase y las imágenes se guardan en Cloudinary.
+                                            <br />
+                                            <strong>Tecnologías empleadas: REACTJS,HTML,CSS,TypeScript</strong>
+                                        </p>
+                                        <a href='https://autoflex-lp4x.onrender.com/'>Auto-Flex</a>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
